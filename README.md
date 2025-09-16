@@ -3,6 +3,7 @@ Este proyecto documenta una serie de prácticas realizadas bajo la norma ISO/IEC
 - Gestión de riesgos de seguridad de la información.
 - Aplicación de controles de seguridad.
 - Configuraciones de hardening en sistemas y redes.
+
 ###🎯 Objetivos
  General
 - Implementar la normativa **ISO/IEC 27001:2022** en cada proyecto, aplicando controles que mitiguen los riesgos de seguridad de la información.
