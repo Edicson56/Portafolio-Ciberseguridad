@@ -5,9 +5,9 @@ Este proyecto documenta una serie de prácticas realizadas bajo la norma ISO/IEC
 - Configuraciones de hardening en sistemas y redes.
 
 ###🎯 Objetivos
- ###General
+### General
 - Implementar la normativa **ISO/IEC 27001:2022** en cada proyecto, aplicando controles que mitiguen los riesgos de seguridad de la información.
- ###Específicos
+### Específicos
 - 📌 Identificar los activos asociados al entorno y el alcance de la organización.  
 - 📌 Analizar los riesgos asociados al entorno y gestionarlos para identificar, evaluar y priorizar las amenazas.  
 - 📌 Implementar los controles necesarios para mitigar las amenazas relacionadas con los activos de información.  
