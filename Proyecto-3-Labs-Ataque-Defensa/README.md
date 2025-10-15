@@ -1,1 +1,2 @@
-
+En este proyecto se desarrolla un análisis de vulnerabilidades y una matriz de riesgos con el propósito de evaluar las posibles consecuencias en caso de materializarse las amenazas identificadas.
+Para ello, se ejecuta un ataque controlado sobre un servidor Ubuntu, simulando un entorno seguro de laboratorio. Este ataque básico permite fortalecer la comprensión del proceso de evaluación de vulnerabilidades y amenazas, sirviendo como base para la construcción de la matriz de riesgos y la identificación del impacto que genera no mitigar las vulnerabilidades dentro de un entorno tecnológico simulado.
